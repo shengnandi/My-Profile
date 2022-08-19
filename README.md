@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shengnandi
+- 👋 Hi, I’m Shengnan Di
 - 👀 I’m interested in Machine Learning, Deep Learning, Food Science.
 - 🌱 I’m currently learning Feature Engineering, Sequantial Model, Stochastic Process.
 - 💞️ I’m looking to collaborate on Application of Deep Learning in Food Science.
